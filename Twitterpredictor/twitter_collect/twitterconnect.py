@@ -1,6 +1,6 @@
 import tweepy
 # We import our access keys:
-from credential import *
+from twitter_collect.credential import *
 
 def twitter_setup():
     """
@@ -15,5 +15,7 @@ def twitter_setup():
     # Return API with authentication:
     api = tweepy.API(auth)
     return api
+
+
 
 
