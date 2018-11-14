@@ -1,4 +1,0 @@
-import tweepy
-
-import pytest
-
