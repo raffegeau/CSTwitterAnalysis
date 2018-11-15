@@ -12,3 +12,24 @@ def RTmax(data):
 def RTmin(data):
     rt_min=np.min(data['RTs'])
     
+
+def  Likesmax(data):
+    likes_max  = np.max(data['Likes'])
+    likes = data[data.Likes == rt_max].index[0]
+    print("The tweet with most like: \n{}".format(data['tweet_textual_content'][likes]))
+    print("Number of retweets: {}".format(likes))
+    print("{} characters.\n".format(data['len'][rt]))
+
+def lenmin(data):
+    len_min  = np.min(data['len'])
+    Len  = data[data.len == len_min].index[0]
+    print("The smallest tweet is: \n{}".format(data['tweet_textual_content'][len]))
+    print("Number of retweets: {}".format(likes))
+    print("{} characters.\n".format(data['len'][rt]))
+
+def lenmax(data):
+    len_max  = np.max(data['len'])
+    Len  = data[data.len == len_max].index[0]
+    print("The longest tweet is: \n{}".format(data['tweet_textual_content'][len]))
+    print("Number of retweets: {}".format(likes))
+    print("{} characters.\n".format(data['len'][rt]))

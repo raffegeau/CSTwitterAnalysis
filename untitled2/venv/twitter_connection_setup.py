@@ -80,7 +80,18 @@ print("{} characters.\n".format(data['len'][rt]))
 
 likes_max  = np.max(data['Likes'])
 likes = data[data.Likes == rt_max].index[0]
-print("The tweet with more likes is: \n{}".format(data['tweet_textual_content'][likes]))
+print("The tweet with most like: \n{}".format(data['tweet_textual_content'][likes]))
 print("Number of retweets: {}".format(likes))
 print("{} characters.\n".format(data['len'][rt]))
 
+len_min  = np.min(data['RTs'])
+len  = data[data.len == len_min].index[0]
+print("The smallest tweet is: \n{}".format(data['tweet_textual_content'][likes]))
+print("Number of retweets: {}".format(likes))
+print("{} characters.\n".format(data['len'][rt]))
+
+len_max  = np.max(data['RTs'])
+len  = data[data.len == len_max].index[0]
+print("The longest tweet is: \n{}".format(data['tweet_textual_content'][likes]))
+print("Number of retweets: {}".format(likes))
+print("{} characters.\n".format(data['len'][rt]))
