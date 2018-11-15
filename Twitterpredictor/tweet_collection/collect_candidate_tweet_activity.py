@@ -2,7 +2,7 @@ import csv
 import tweepy
 
 
-def get_candidate_queries(num_candidate, file_path):
+def get_candidate_queries(num_candidate, file_path,type):
     """
     Generate and return a list of string queries for the search Twitter API from the file file_path_num_candidate.txt
     :param num_candidate: the number of the candidate
