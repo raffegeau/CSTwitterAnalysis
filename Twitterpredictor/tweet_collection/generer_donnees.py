@@ -20,5 +20,9 @@ def create_data():
     data=pandas.concat([data1,data2])
     return data
 
+#data=create_data()
+#data.to_csv('macron_lepen_dataframe.csv', sep = '\t', index = False)
+
+
 
 

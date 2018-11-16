@@ -1,6 +1,1624 @@
 {
   "tweets": [
       {
+        "created_at": "Fri Nov 16 17:55:19 +0000 2018",
+        "id": 1063490715710308353,
+        "id_str": "1063490715710308353",
+        "text": "@naciodigital @RicardUstrell @marinelepen @quatregatstv3 @tv3cat Cal? De deb\u00f2? Tenim un Jordi \u00c9vole 2.0? No cal donar veu al feixisme.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "naciodigital",
+              "name": "Naci\u00f3Digital",
+              "id": 14088938,
+              "id_str": "14088938",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "RicardUstrell",
+              "name": "Ricard Ustrell",
+              "id": 383939244,
+              "id_str": "383939244",
+              "indices": [
+                14,
+                28
+              ]
+            },
+            {
+              "screen_name": "marinelepen",
+              "name": "Marine Le Pen",
+              "id": 80378916,
+              "id_str": "80378916",
+              "indices": [
+                29,
+                41
+              ]
+            },
+            {
+              "screen_name": "quatregatstv3",
+              "name": "Quatre gats",
+              "id": 1042163706594041856,
+              "id_str": "1042163706594041856",
+              "indices": [
+                42,
+                56
+              ]
+            },
+            {
+              "screen_name": "tv3cat",
+              "name": "TV3.cat",
+              "id": 28373820,
+              "id_str": "28373820",
+              "indices": [
+                57,
+                64
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "metadata": {
+          "result_type": "recent",
+          "iso_language_code": "ca"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1063453468990611456,
+        "in_reply_to_status_id_str": "1063453468990611456",
+        "in_reply_to_user_id": 14088938,
+        "in_reply_to_user_id_str": "14088938",
+        "in_reply_to_screen_name": "naciodigital",
+        "user": {
+          "id": 929949166159257601,
+          "id_str": "929949166159257601",
+          "name": "Albert Viv\u00f3",
+          "screen_name": "VivoAlbert",
+          "location": "Rep\u00fablica de Catalunya ",
+          "description": "No passaran!",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 95,
+          "friends_count": 430,
+          "listed_count": 0,
+          "created_at": "Mon Nov 13 05:48:53 +0000 2017",
+          "favourites_count": 24511,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 14259,
+          "lang": "es",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1010507813528002560/_tptUOt8_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010507813528002560/_tptUOt8_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ca"
+      },
+      {
+        "created_at": "Fri Nov 16 16:38:41 +0000 2018",
+        "id": 1063471427075088385,
+        "id_str": "1063471427075088385",
+        "text": "RT @naciodigital: V\u00cdDEO @RicardUstrell entrevistar\u00e0 Marine Le Pen (@marinelepen) en el retorn del @quatregatstv3 a @tv3cat https://t.co/b9Y\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "naciodigital",
+              "name": "Naci\u00f3Digital",
+              "id": 14088938,
+              "id_str": "14088938",
+              "indices": [
+                3,
+                16
+              ]
+            },
+            {
+              "screen_name": "RicardUstrell",
+              "name": "Ricard Ustrell",
+              "id": 383939244,
+              "id_str": "383939244",
+              "indices": [
+                24,
+                38
+              ]
+            },
+            {
+              "screen_name": "marinelepen",
+              "name": "Marine Le Pen",
+              "id": 80378916,
+              "id_str": "80378916",
+              "indices": [
+                67,
+                79
+              ]
+            },
+            {
+              "screen_name": "quatregatstv3",
+              "name": "Quatre gats",
+              "id": 1042163706594041856,
+              "id_str": "1042163706594041856",
+              "indices": [
+                98,
+                112
+              ]
+            },
+            {
+              "screen_name": "tv3cat",
+              "name": "TV3.cat",
+              "id": 28373820,
+              "id_str": "28373820",
+              "indices": [
+                115,
+                122
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 269344604,
+          "id_str": "269344604",
+          "name": "Llibert Ferri Mateo",
+          "screen_name": "Llibertferri",
+          "location": "",
+          "description": "Periodista freelance. Entre 1987 i 2007 vaig ser corresponsal de TV3 -volant i fix- a l'Europa de l'Est i a l'URSS.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 15165,
+          "friends_count": 13059,
+          "listed_count": 170,
+          "created_at": "Sun Mar 20 15:50:52 +0000 2011",
+          "favourites_count": 6642,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 34605,
+          "lang": "ca",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/526007765253107712/2t-S3Hdc_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/526007765253107712/2t-S3Hdc_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/269344604/1399996054",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Fri Nov 16 15:27:19 +0000 2018",
+          "id": 1063453468990611456,
+          "id_str": "1063453468990611456",
+          "text": "V\u00cdDEO @RicardUstrell entrevistar\u00e0 Marine Le Pen (@marinelepen) en el retorn del @quatregatstv3 a @tv3cat https://t.co/b9YqFmL9sp",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "RicardUstrell",
+                "name": "Ricard Ustrell",
+                "id": 383939244,
+                "id_str": "383939244",
+                "indices": [
+                  6,
+                  20
+                ]
+              },
+              {
+                "screen_name": "marinelepen",
+                "name": "Marine Le Pen",
+                "id": 80378916,
+                "id_str": "80378916",
+                "indices": [
+                  49,
+                  61
+                ]
+              },
+              {
+                "screen_name": "quatregatstv3",
+                "name": "Quatre gats",
+                "id": 1042163706594041856,
+                "id_str": "1042163706594041856",
+                "indices": [
+                  80,
+                  94
+                ]
+              },
+              {
+                "screen_name": "tv3cat",
+                "name": "TV3.cat",
+                "id": 28373820,
+                "id_str": "28373820",
+                "indices": [
+                  97,
+                  104
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/b9YqFmL9sp",
+                "expanded_url": "https://www.naciodigital.cat/noticia/166841/video/ustrell/entrevistara/marine/le/pen/tv3",
+                "display_url": "naciodigital.cat/noticia/166841\u2026",
+                "indices": [
+                  105,
+                  128
+                ]
+              }
+            ]
+          },
+          "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+          },
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 14088938,
+            "id_str": "14088938",
+            "name": "Naci\u00f3Digital",
+            "screen_name": "naciodigital",
+            "location": "Catalunya",
+            "description": "Diari digital l\u00edder en catal\u00e0, creat el 1996",
+            "url": "https://t.co/Ng9mnJO0ud",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/Ng9mnJO0ud",
+                    "expanded_url": "http://www.naciodigital.cat",
+                    "display_url": "naciodigital.cat",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 166224,
+            "friends_count": 2391,
+            "listed_count": 2179,
+            "created_at": "Thu Mar 06 14:50:56 +0000 2008",
+            "favourites_count": 87,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 278536,
+            "lang": "ca",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1011632029883076608/3mFj08Xg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011632029883076608/3mFj08Xg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14088938/1447431565",
+            "profile_link_color": "E0565A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6EEFA",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 3,
+          "favorite_count": 4,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      {
+        "created_at": "Fri Nov 16 15:50:26 +0000 2018",
+        "id": 1063459283914784769,
+        "id_str": "1063459283914784769",
+        "text": "RT @naciodigital: V\u00cdDEO @RicardUstrell entrevistar\u00e0 Marine Le Pen (@marinelepen) en el retorn del @quatregatstv3 a @tv3cat https://t.co/b9Y\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "naciodigital",
+              "name": "Naci\u00f3Digital",
+              "id": 14088938,
+              "id_str": "14088938",
+              "indices": [
+                3,
+                16
+              ]
+            },
+            {
+              "screen_name": "RicardUstrell",
+              "name": "Ricard Ustrell",
+              "id": 383939244,
+              "id_str": "383939244",
+              "indices": [
+                24,
+                38
+              ]
+            },
+            {
+              "screen_name": "marinelepen",
+              "name": "Marine Le Pen",
+              "id": 80378916,
+              "id_str": "80378916",
+              "indices": [
+                67,
+                79
+              ]
+            },
+            {
+              "screen_name": "quatregatstv3",
+              "name": "Quatre gats",
+              "id": 1042163706594041856,
+              "id_str": "1042163706594041856",
+              "indices": [
+                98,
+                112
+              ]
+            },
+            {
+              "screen_name": "tv3cat",
+              "name": "TV3.cat",
+              "id": 28373820,
+              "id_str": "28373820",
+              "indices": [
+                115,
+                122
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1013063842069221376,
+          "id_str": "1013063842069221376",
+          "name": "Mahesh Chaurasiya",
+          "screen_name": "MaheshC15143297",
+          "location": "Rewa, India",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1644,
+          "friends_count": 1380,
+          "listed_count": 3,
+          "created_at": "Sat Jun 30 14:16:56 +0000 2018",
+          "favourites_count": 107365,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 114932,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1024298771587391488/Z2oJENRS_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024298771587391488/Z2oJENRS_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013063842069221376/1536992312",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Fri Nov 16 15:27:19 +0000 2018",
+          "id": 1063453468990611456,
+          "id_str": "1063453468990611456",
+          "text": "V\u00cdDEO @RicardUstrell entrevistar\u00e0 Marine Le Pen (@marinelepen) en el retorn del @quatregatstv3 a @tv3cat https://t.co/b9YqFmL9sp",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "RicardUstrell",
+                "name": "Ricard Ustrell",
+                "id": 383939244,
+                "id_str": "383939244",
+                "indices": [
+                  6,
+                  20
+                ]
+              },
+              {
+                "screen_name": "marinelepen",
+                "name": "Marine Le Pen",
+                "id": 80378916,
+                "id_str": "80378916",
+                "indices": [
+                  49,
+                  61
+                ]
+              },
+              {
+                "screen_name": "quatregatstv3",
+                "name": "Quatre gats",
+                "id": 1042163706594041856,
+                "id_str": "1042163706594041856",
+                "indices": [
+                  80,
+                  94
+                ]
+              },
+              {
+                "screen_name": "tv3cat",
+                "name": "TV3.cat",
+                "id": 28373820,
+                "id_str": "28373820",
+                "indices": [
+                  97,
+                  104
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/b9YqFmL9sp",
+                "expanded_url": "https://www.naciodigital.cat/noticia/166841/video/ustrell/entrevistara/marine/le/pen/tv3",
+                "display_url": "naciodigital.cat/noticia/166841\u2026",
+                "indices": [
+                  105,
+                  128
+                ]
+              }
+            ]
+          },
+          "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+          },
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 14088938,
+            "id_str": "14088938",
+            "name": "Naci\u00f3Digital",
+            "screen_name": "naciodigital",
+            "location": "Catalunya",
+            "description": "Diari digital l\u00edder en catal\u00e0, creat el 1996",
+            "url": "https://t.co/Ng9mnJO0ud",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/Ng9mnJO0ud",
+                    "expanded_url": "http://www.naciodigital.cat",
+                    "display_url": "naciodigital.cat",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 166224,
+            "friends_count": 2391,
+            "listed_count": 2179,
+            "created_at": "Thu Mar 06 14:50:56 +0000 2008",
+            "favourites_count": 87,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 278536,
+            "lang": "ca",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1011632029883076608/3mFj08Xg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011632029883076608/3mFj08Xg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14088938/1447431565",
+            "profile_link_color": "E0565A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6EEFA",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 3,
+          "favorite_count": 4,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      {
+        "created_at": "Fri Nov 16 15:34:14 +0000 2018",
+        "id": 1063455208687222784,
+        "id_str": "1063455208687222784",
+        "text": "@naciodigital @RicardUstrell @marinelepen @quatregatstv3 @tv3cat Quina p*ta mania de portar xen\u00f2fobs a la nostra te\u2026 https://t.co/w8g5Zfan2L",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "naciodigital",
+              "name": "Naci\u00f3Digital",
+              "id": 14088938,
+              "id_str": "14088938",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "RicardUstrell",
+              "name": "Ricard Ustrell",
+              "id": 383939244,
+              "id_str": "383939244",
+              "indices": [
+                14,
+                28
+              ]
+            },
+            {
+              "screen_name": "marinelepen",
+              "name": "Marine Le Pen",
+              "id": 80378916,
+              "id_str": "80378916",
+              "indices": [
+                29,
+                41
+              ]
+            },
+            {
+              "screen_name": "quatregatstv3",
+              "name": "Quatre gats",
+              "id": 1042163706594041856,
+              "id_str": "1042163706594041856",
+              "indices": [
+                42,
+                56
+              ]
+            },
+            {
+              "screen_name": "tv3cat",
+              "name": "TV3.cat",
+              "id": 28373820,
+              "id_str": "28373820",
+              "indices": [
+                57,
+                64
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/w8g5Zfan2L",
+              "expanded_url": "https://twitter.com/i/web/status/1063455208687222784",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "result_type": "recent",
+          "iso_language_code": "ca"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1063453468990611456,
+        "in_reply_to_status_id_str": "1063453468990611456",
+        "in_reply_to_user_id": 14088938,
+        "in_reply_to_user_id_str": "14088938",
+        "in_reply_to_screen_name": "naciodigital",
+        "user": {
+          "id": 55168808,
+          "id_str": "55168808",
+          "name": "Makinser Z",
+          "screen_name": "lomaki",
+          "location": "Rep\u00fablica de Catalunya",
+          "description": "Jo vinc d1 silenci q no \u00e9s resignat, don comen\u00e7a l'horta i acaba el sec\u00e0, desfor\u00e7 i blasf\u00e8mia pq tot va mal: qui perd ls or\u00edgens perd la identitat.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 795,
+          "friends_count": 799,
+          "listed_count": 39,
+          "created_at": "Thu Jul 09 07:02:44 +0000 2009",
+          "favourites_count": 1500,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 79880,
+          "lang": "ca",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFCC4D",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/981174091062304768/EOipas2n_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/981174091062304768/EOipas2n_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/55168808/1460672465",
+          "profile_link_color": "ABB8C2",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "7AC3EE",
+          "profile_text_color": "3D1957",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ca"
+      },
+      {
+        "created_at": "Fri Nov 16 15:34:13 +0000 2018",
+        "id": 1063455206464266241,
+        "id_str": "1063455206464266241",
+        "text": "@naciodigital @RicardUstrell @marinelepen @quatregatstv3 @tv3cat Gr\u00e0cies per avisar. Un altre programa de TV3 q dei\u2026 https://t.co/FXORIjgWrv",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "naciodigital",
+              "name": "Naci\u00f3Digital",
+              "id": 14088938,
+              "id_str": "14088938",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "RicardUstrell",
+              "name": "Ricard Ustrell",
+              "id": 383939244,
+              "id_str": "383939244",
+              "indices": [
+                14,
+                28
+              ]
+            },
+            {
+              "screen_name": "marinelepen",
+              "name": "Marine Le Pen",
+              "id": 80378916,
+              "id_str": "80378916",
+              "indices": [
+                29,
+                41
+              ]
+            },
+            {
+              "screen_name": "quatregatstv3",
+              "name": "Quatre gats",
+              "id": 1042163706594041856,
+              "id_str": "1042163706594041856",
+              "indices": [
+                42,
+                56
+              ]
+            },
+            {
+              "screen_name": "tv3cat",
+              "name": "TV3.cat",
+              "id": 28373820,
+              "id_str": "28373820",
+              "indices": [
+                57,
+                64
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/FXORIjgWrv",
+              "expanded_url": "https://twitter.com/i/web/status/1063455206464266241",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "result_type": "recent",
+          "iso_language_code": "ca"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1063453468990611456,
+        "in_reply_to_status_id_str": "1063453468990611456",
+        "in_reply_to_user_id": 14088938,
+        "in_reply_to_user_id_str": "14088938",
+        "in_reply_to_screen_name": "naciodigital",
+        "user": {
+          "id": 1320072661,
+          "id_str": "1320072661",
+          "name": "Maria Jos\u00e9",
+          "screen_name": "mjagvs",
+          "location": "",
+          "description": "Catalana, republicana. S\u00f3c ANC. S\u00f3c CDR.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 77,
+          "friends_count": 340,
+          "listed_count": 2,
+          "created_at": "Mon Apr 01 10:26:03 +0000 2013",
+          "favourites_count": 390,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 1781,
+          "lang": "ca",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/958378080522907648/gMW7WoR3_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/958378080522907648/gMW7WoR3_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320072661/1473631835",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ca"
+      },
+      {
+        "created_at": "Fri Nov 16 15:27:48 +0000 2018",
+        "id": 1063453591434862594,
+        "id_str": "1063453591434862594",
+        "text": "RT @naciodigital: V\u00cdDEO @RicardUstrell entrevistar\u00e0 Marine Le Pen (@marinelepen) en el retorn del @quatregatstv3 a @tv3cat https://t.co/b9Y\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "naciodigital",
+              "name": "Naci\u00f3Digital",
+              "id": 14088938,
+              "id_str": "14088938",
+              "indices": [
+                3,
+                16
+              ]
+            },
+            {
+              "screen_name": "RicardUstrell",
+              "name": "Ricard Ustrell",
+              "id": 383939244,
+              "id_str": "383939244",
+              "indices": [
+                24,
+                38
+              ]
+            },
+            {
+              "screen_name": "marinelepen",
+              "name": "Marine Le Pen",
+              "id": 80378916,
+              "id_str": "80378916",
+              "indices": [
+                67,
+                79
+              ]
+            },
+            {
+              "screen_name": "quatregatstv3",
+              "name": "Quatre gats",
+              "id": 1042163706594041856,
+              "id_str": "1042163706594041856",
+              "indices": [
+                98,
+                112
+              ]
+            },
+            {
+              "screen_name": "tv3cat",
+              "name": "TV3.cat",
+              "id": 28373820,
+              "id_str": "28373820",
+              "indices": [
+                115,
+                122
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 19613087,
+          "id_str": "19613087",
+          "name": "Jordi Graell Calull",
+          "screen_name": "jordi_bojan",
+          "location": "El Vendrell, Catalunya",
+          "description": "Periodisme UAB i m\u00e0ster esportiu @BlanquernaFCRI. @RTVEV. Col\u00b7laboro a @FCBtv @ARAesports  Abans @EsportsdelCamp @catradioesports @esportspenedes @CalafellRadio",
+          "url": "https://t.co/eYoiCgMbXu",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/eYoiCgMbXu",
+                  "expanded_url": "https://www.vizify.com/jordi-graell-calull/twitter-video",
+                  "display_url": "vizify.com/jordi-graell-c\u2026",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1362,
+          "friends_count": 2278,
+          "listed_count": 45,
+          "created_at": "Tue Jan 27 20:14:44 +0000 2009",
+          "favourites_count": 964,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 43889,
+          "lang": "ca",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/906835772371881984/JKaMbSmw_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/906835772371881984/JKaMbSmw_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/19613087/1451408667",
+          "profile_link_color": "B30000",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Fri Nov 16 15:27:19 +0000 2018",
+          "id": 1063453468990611456,
+          "id_str": "1063453468990611456",
+          "text": "V\u00cdDEO @RicardUstrell entrevistar\u00e0 Marine Le Pen (@marinelepen) en el retorn del @quatregatstv3 a @tv3cat https://t.co/b9YqFmL9sp",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "RicardUstrell",
+                "name": "Ricard Ustrell",
+                "id": 383939244,
+                "id_str": "383939244",
+                "indices": [
+                  6,
+                  20
+                ]
+              },
+              {
+                "screen_name": "marinelepen",
+                "name": "Marine Le Pen",
+                "id": 80378916,
+                "id_str": "80378916",
+                "indices": [
+                  49,
+                  61
+                ]
+              },
+              {
+                "screen_name": "quatregatstv3",
+                "name": "Quatre gats",
+                "id": 1042163706594041856,
+                "id_str": "1042163706594041856",
+                "indices": [
+                  80,
+                  94
+                ]
+              },
+              {
+                "screen_name": "tv3cat",
+                "name": "TV3.cat",
+                "id": 28373820,
+                "id_str": "28373820",
+                "indices": [
+                  97,
+                  104
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/b9YqFmL9sp",
+                "expanded_url": "https://www.naciodigital.cat/noticia/166841/video/ustrell/entrevistara/marine/le/pen/tv3",
+                "display_url": "naciodigital.cat/noticia/166841\u2026",
+                "indices": [
+                  105,
+                  128
+                ]
+              }
+            ]
+          },
+          "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+          },
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 14088938,
+            "id_str": "14088938",
+            "name": "Naci\u00f3Digital",
+            "screen_name": "naciodigital",
+            "location": "Catalunya",
+            "description": "Diari digital l\u00edder en catal\u00e0, creat el 1996",
+            "url": "https://t.co/Ng9mnJO0ud",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/Ng9mnJO0ud",
+                    "expanded_url": "http://www.naciodigital.cat",
+                    "display_url": "naciodigital.cat",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 166224,
+            "friends_count": 2391,
+            "listed_count": 2179,
+            "created_at": "Thu Mar 06 14:50:56 +0000 2008",
+            "favourites_count": 87,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 278536,
+            "lang": "ca",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1011632029883076608/3mFj08Xg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011632029883076608/3mFj08Xg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14088938/1447431565",
+            "profile_link_color": "E0565A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6EEFA",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 3,
+          "favorite_count": 4,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      {
+        "created_at": "Fri Nov 16 15:27:19 +0000 2018",
+        "id": 1063453468990611456,
+        "id_str": "1063453468990611456",
+        "text": "V\u00cdDEO @RicardUstrell entrevistar\u00e0 Marine Le Pen (@marinelepen) en el retorn del @quatregatstv3 a @tv3cat https://t.co/b9YqFmL9sp",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "RicardUstrell",
+              "name": "Ricard Ustrell",
+              "id": 383939244,
+              "id_str": "383939244",
+              "indices": [
+                6,
+                20
+              ]
+            },
+            {
+              "screen_name": "marinelepen",
+              "name": "Marine Le Pen",
+              "id": 80378916,
+              "id_str": "80378916",
+              "indices": [
+                49,
+                61
+              ]
+            },
+            {
+              "screen_name": "quatregatstv3",
+              "name": "Quatre gats",
+              "id": 1042163706594041856,
+              "id_str": "1042163706594041856",
+              "indices": [
+                80,
+                94
+              ]
+            },
+            {
+              "screen_name": "tv3cat",
+              "name": "TV3.cat",
+              "id": 28373820,
+              "id_str": "28373820",
+              "indices": [
+                97,
+                104
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/b9YqFmL9sp",
+              "expanded_url": "https://www.naciodigital.cat/noticia/166841/video/ustrell/entrevistara/marine/le/pen/tv3",
+              "display_url": "naciodigital.cat/noticia/166841\u2026",
+              "indices": [
+                105,
+                128
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 14088938,
+          "id_str": "14088938",
+          "name": "Naci\u00f3Digital",
+          "screen_name": "naciodigital",
+          "location": "Catalunya",
+          "description": "Diari digital l\u00edder en catal\u00e0, creat el 1996",
+          "url": "https://t.co/Ng9mnJO0ud",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/Ng9mnJO0ud",
+                  "expanded_url": "http://www.naciodigital.cat",
+                  "display_url": "naciodigital.cat",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 166224,
+          "friends_count": 2391,
+          "listed_count": 2179,
+          "created_at": "Thu Mar 06 14:50:56 +0000 2008",
+          "favourites_count": 87,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 278536,
+          "lang": "ca",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1011632029883076608/3mFj08Xg_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011632029883076608/3mFj08Xg_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/14088938/1447431565",
+          "profile_link_color": "E0565A",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "E6EEFA",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+      },
+      {
+        "created_at": "Fri Nov 16 10:48:47 +0000 2018",
+        "id": 1063383373362667521,
+        "id_str": "1063383373362667521",
+        "text": "il est ou @marinelepen  , ce mec c croit fran\u00e7ais ou il est juste lui un cougrars !!!!\nOccupe toi du foot la politi\u2026 https://t.co/5l3EsGSu2p",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "marinelepen",
+              "name": "Marine Le Pen",
+              "id": 80378916,
+              "id_str": "80378916",
+              "indices": [
+                10,
+                22
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/5l3EsGSu2p",
+              "expanded_url": "https://twitter.com/i/web/status/1063383373362667521",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2991610137,
+          "id_str": "2991610137",
+          "name": "Mackenzie Bravo",
+          "screen_name": "kenziebravo",
+          "location": "Emirados \u00c1rabes Unidos",
+          "description": "Ex- Baskett-Ball player Of San Antonio Spurs 2nd League, 20 Years , I want to Play at NBA!!!!!",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 110,
+          "friends_count": 740,
+          "listed_count": 0,
+          "created_at": "Thu Jan 22 07:27:53 +0000 2015",
+          "favourites_count": 51,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 253,
+          "lang": "pt",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1058009139497058304/_JJ5XQTf_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058009139497058304/_JJ5XQTf_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2991610137/1422120837",
+          "profile_link_color": "F58EA8",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1062629941601275904,
+        "quoted_status_id_str": "1062629941601275904",
+        "quoted_status": {
+          "created_at": "Wed Nov 14 08:54:55 +0000 2018",
+          "id": 1062629941601275904,
+          "id_str": "1062629941601275904",
+          "text": "Jmoccupe de lui @EmmanuelMacron tkt",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "EmmanuelMacron",
+                "name": "Emmanuel Macron",
+                "id": 1976143068,
+                "id_str": "1976143068",
+                "indices": [
+                  16,
+                  31
+                ]
+              }
+            ],
+            "urls": []
+          },
+          "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": 1062488321442672646,
+          "in_reply_to_status_id_str": "1062488321442672646",
+          "in_reply_to_user_id": 425044984,
+          "in_reply_to_user_id_str": "425044984",
+          "in_reply_to_screen_name": "benmendy23",
+          "user": {
+            "id": 425044984,
+            "id_str": "425044984",
+            "name": "Benjamin Mendy",
+            "screen_name": "benmendy23",
+            "location": "Manchester, England",
+            "description": "World Champ \u2b50\ufe0f\u2b50\ufe0f @ManCity Player & international @Equipedefrance \ud83c\uddeb\ud83c\uddf7 / @adidasfootball athlete ||| ex @AS_monaco @OM_Officiel @HAC_Foot #Shark22 \ud83e\udd88",
+            "url": "https://t.co/1qG401csyr",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/1qG401csyr",
+                    "expanded_url": "http://www.sportcover.co",
+                    "display_url": "sportcover.co",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 1068163,
+            "friends_count": 488,
+            "listed_count": 1629,
+            "created_at": "Wed Nov 30 13:51:53 +0000 2011",
+            "favourites_count": 1368,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 6491,
+            "lang": "fr",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EEEEEE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1028607410414518272/y7uqIIro_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028607410414518272/y7uqIIro_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/425044984/1531843533",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 24353,
+          "favorite_count": 45090,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "fr"
+        },
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      {
         "created_at": "Fri Nov 16 10:03:23 +0000 2018",
         "id": 1063371947646615552,
         "id_str": "1063371947646615552",
@@ -66,7 +1684,7 @@
           "time_zone": null,
           "geo_enabled": false,
           "verified": false,
-          "statuses_count": 285,
+          "statuses_count": 283,
           "lang": "fr",
           "contributors_enabled": false,
           "is_translator": false,
@@ -239,8 +1857,8 @@
             }
           },
           "protected": false,
-          "followers_count": 71,
-          "friends_count": 473,
+          "followers_count": 72,
+          "friends_count": 472,
           "listed_count": 0,
           "created_at": "Mon Aug 27 20:43:16 +0000 2018",
           "favourites_count": 2091,
@@ -334,8 +1952,8 @@
               }
             },
             "protected": false,
-            "followers_count": 71,
-            "friends_count": 473,
+            "followers_count": 72,
+            "friends_count": 472,
             "listed_count": 0,
             "created_at": "Mon Aug 27 20:43:16 +0000 2018",
             "favourites_count": 2091,
@@ -465,15 +2083,15 @@
           },
           "protected": false,
           "followers_count": 1,
-          "friends_count": 56,
+          "friends_count": 58,
           "listed_count": 0,
           "created_at": "Tue Oct 02 01:23:32 +0000 2018",
-          "favourites_count": 24,
+          "favourites_count": 25,
           "utc_offset": null,
           "time_zone": null,
           "geo_enabled": false,
           "verified": false,
-          "statuses_count": 42,
+          "statuses_count": 46,
           "lang": "de",
           "contributors_enabled": false,
           "is_translator": false,
@@ -756,16 +2374,6 @@
           "symbols": [],
           "user_mentions": [
             {
-              "screen_name": "8Husbands",
-              "name": "A.",
-              "id": 490838324,
-              "id_str": "490838324",
-              "indices": [
-                0,
-                10
-              ]
-            },
-            {
               "screen_name": "alischris05",
               "name": "lio_lio",
               "id": 816376046899466241,
@@ -803,11 +2411,11 @@
           "result_type": "recent"
         },
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "in_reply_to_status_id": 1062817801516277760,
-        "in_reply_to_status_id_str": "1062817801516277760",
-        "in_reply_to_user_id": 490838324,
-        "in_reply_to_user_id_str": "490838324",
-        "in_reply_to_screen_name": "8Husbands",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
         "user": {
           "id": 575428740,
           "id_str": "575428740",
@@ -835,16 +2443,16 @@
             }
           },
           "protected": false,
-          "followers_count": 1015,
+          "followers_count": 1016,
           "friends_count": 274,
-          "listed_count": 11,
+          "listed_count": 12,
           "created_at": "Wed May 09 13:19:51 +0000 2012",
           "favourites_count": 5181,
           "utc_offset": null,
           "time_zone": null,
           "geo_enabled": true,
           "verified": false,
-          "statuses_count": 9178,
+          "statuses_count": 9179,
           "lang": "fr",
           "contributors_enabled": false,
           "is_translator": false,
@@ -970,16 +2578,16 @@
             }
           },
           "protected": false,
-          "followers_count": 1015,
+          "followers_count": 1016,
           "friends_count": 274,
-          "listed_count": 11,
+          "listed_count": 12,
           "created_at": "Wed May 09 13:19:51 +0000 2012",
           "favourites_count": 5181,
           "utc_offset": null,
           "time_zone": null,
           "geo_enabled": true,
           "verified": false,
-          "statuses_count": 9178,
+          "statuses_count": 9179,
           "lang": "fr",
           "contributors_enabled": false,
           "is_translator": false,
@@ -1014,1063 +2622,6 @@
         "favorited": false,
         "retweeted": false,
         "lang": "und"
-      },
-      {
-        "created_at": "Wed Nov 14 19:37:25 +0000 2018",
-        "id": 1062791630292434944,
-        "id_str": "1062791630292434944",
-        "text": "@pazcal1973 @realDonaldTrump @marinelepen And the far left ?",
-        "truncated": false,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "pazcal1973",
-              "name": "Ronald Grump",
-              "id": 23190411,
-              "id_str": "23190411",
-              "indices": [
-                0,
-                11
-              ]
-            },
-            {
-              "screen_name": "realDonaldTrump",
-              "name": "Donald J. Trump",
-              "id": 25073877,
-              "id_str": "25073877",
-              "indices": [
-                12,
-                28
-              ]
-            },
-            {
-              "screen_name": "marinelepen",
-              "name": "Marine Le Pen",
-              "id": 80378916,
-              "id_str": "80378916",
-              "indices": [
-                29,
-                41
-              ]
-            }
-          ],
-          "urls": []
-        },
-        "metadata": {
-          "iso_language_code": "en",
-          "result_type": "recent"
-        },
-        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-        "in_reply_to_status_id": 1062462678667550720,
-        "in_reply_to_status_id_str": "1062462678667550720",
-        "in_reply_to_user_id": 23190411,
-        "in_reply_to_user_id_str": "23190411",
-        "in_reply_to_screen_name": "pazcal1973",
-        "user": {
-          "id": 812387737689063424,
-          "id_str": "812387737689063424",
-          "name": "Paul & Dan",
-          "screen_name": "2xlegalaliens",
-          "location": "Tuckahoe, NY",
-          "description": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7\ud83c\uddf3\ud83c\uddf4\ud83c\udff3\ufe0f\u200d\ud83c\udf08 2 boys based in NY, #newright support #potus, gamers, sports,MA, love guns & outdoors, RC, & take no prisoners but we\u2019re cool dudes \ud83d\udc4d",
-          "url": null,
-          "entities": {
-            "description": {
-              "urls": []
-            }
-          },
-          "protected": false,
-          "followers_count": 373,
-          "friends_count": 87,
-          "listed_count": 6,
-          "created_at": "Fri Dec 23 20:01:44 +0000 2016",
-          "favourites_count": 18667,
-          "utc_offset": null,
-          "time_zone": null,
-          "geo_enabled": false,
-          "verified": false,
-          "statuses_count": 18294,
-          "lang": "en",
-          "contributors_enabled": false,
-          "is_translator": false,
-          "is_translation_enabled": false,
-          "profile_background_color": "F5F8FA",
-          "profile_background_image_url": null,
-          "profile_background_image_url_https": null,
-          "profile_background_tile": false,
-          "profile_image_url": "http://pbs.twimg.com/profile_images/991668691434602496/vAUAlyOV_normal.jpg",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/991668691434602496/vAUAlyOV_normal.jpg",
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/812387737689063424/1537224283",
-          "profile_link_color": "1DA1F2",
-          "profile_sidebar_border_color": "C0DEED",
-          "profile_sidebar_fill_color": "DDEEF6",
-          "profile_text_color": "333333",
-          "profile_use_background_image": true,
-          "has_extended_profile": false,
-          "default_profile": true,
-          "default_profile_image": false,
-          "following": false,
-          "follow_request_sent": false,
-          "notifications": false,
-          "translator_type": "none"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-      },
-      {
-        "created_at": "Wed Nov 14 09:46:01 +0000 2018",
-        "id": 1062642800909582336,
-        "id_str": "1062642800909582336",
-        "text": "C'\u00e9tait le programme de @marinelepen conseill\u00e9e par @PhilippeMurer , sauf erreur de ma part. https://t.co/pvX6nHS4dm",
-        "truncated": false,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "marinelepen",
-              "name": "Marine Le Pen",
-              "id": 80378916,
-              "id_str": "80378916",
-              "indices": [
-                24,
-                36
-              ]
-            },
-            {
-              "screen_name": "PhilippeMurer",
-              "name": "Philippe Murer \ud83c\uddeb\ud83c\uddf7",
-              "id": 2907408203,
-              "id_str": "2907408203",
-              "indices": [
-                52,
-                66
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/pvX6nHS4dm",
-              "expanded_url": "https://twitter.com/MaximCombes/status/1062639829127700481",
-              "display_url": "twitter.com/MaximCombes/st\u2026",
-              "indices": [
-                93,
-                116
-              ]
-            }
-          ]
-        },
-        "metadata": {
-          "iso_language_code": "fr",
-          "result_type": "recent"
-        },
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "user": {
-          "id": 2976762101,
-          "id_str": "2976762101",
-          "name": "Navarre",
-          "screen_name": "Navarraise",
-          "location": "",
-          "description": "Les faits sont t\u00eatus.",
-          "url": null,
-          "entities": {
-            "description": {
-              "urls": []
-            }
-          },
-          "protected": false,
-          "followers_count": 179,
-          "friends_count": 1069,
-          "listed_count": 0,
-          "created_at": "Tue Jan 13 17:13:06 +0000 2015",
-          "favourites_count": 3130,
-          "utc_offset": null,
-          "time_zone": null,
-          "geo_enabled": true,
-          "verified": false,
-          "statuses_count": 12166,
-          "lang": "fr",
-          "contributors_enabled": false,
-          "is_translator": false,
-          "is_translation_enabled": false,
-          "profile_background_color": "C0DEED",
-          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-          "profile_background_tile": false,
-          "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-          "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-          "profile_link_color": "1DA1F2",
-          "profile_sidebar_border_color": "C0DEED",
-          "profile_sidebar_fill_color": "DDEEF6",
-          "profile_text_color": "333333",
-          "profile_use_background_image": true,
-          "has_extended_profile": false,
-          "default_profile": true,
-          "default_profile_image": true,
-          "following": false,
-          "follow_request_sent": false,
-          "notifications": false,
-          "translator_type": "none"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": true,
-        "quoted_status_id": 1062639829127700481,
-        "quoted_status_id_str": "1062639829127700481",
-        "quoted_status": {
-          "created_at": "Wed Nov 14 09:34:12 +0000 2018",
-          "id": 1062639829127700481,
-          "id_str": "1062639829127700481",
-          "text": "4\u20e3 R\u00e9duire les besoins de chauffage des m\u00e9nages\n- plan d'investissement massif dans la r\u00e9novation et l'isolation de\u2026 https://t.co/NGfQ1WsYvv",
-          "truncated": true,
-          "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [],
-            "urls": [
-              {
-                "url": "https://t.co/NGfQ1WsYvv",
-                "expanded_url": "https://twitter.com/i/web/status/1062639829127700481",
-                "display_url": "twitter.com/i/web/status/1\u2026",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
-          },
-          "metadata": {
-            "iso_language_code": "fr",
-            "result_type": "recent"
-          },
-          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-          "in_reply_to_status_id": 1062639149889544192,
-          "in_reply_to_status_id_str": "1062639149889544192",
-          "in_reply_to_user_id": 80122680,
-          "in_reply_to_user_id_str": "80122680",
-          "in_reply_to_screen_name": "MaximCombes",
-          "user": {
-            "id": 80122680,
-            "id_str": "80122680",
-            "name": "Maxime Combes",
-            "screen_name": "MaximCombes",
-            "location": "Par ici ou par l\u00e0",
-            "description": "Economiste - Auteur de Sortons de l'\u00e2ge des #fossiles ! Manifeste pour la #transition au #SEUIL #climat #TAFTA #g\u00e9opolitique #biodiv #ATTAC",
-            "url": "http://t.co/iZ3fxGLsoz",
-            "entities": {
-              "url": {
-                "urls": [
-                  {
-                    "url": "http://t.co/iZ3fxGLsoz",
-                    "expanded_url": "http://www.alter-echos.org",
-                    "display_url": "alter-echos.org",
-                    "indices": [
-                      0,
-                      22
-                    ]
-                  }
-                ]
-              },
-              "description": {
-                "urls": []
-              }
-            },
-            "protected": false,
-            "followers_count": 18673,
-            "friends_count": 164,
-            "listed_count": 408,
-            "created_at": "Mon Oct 05 20:49:46 +0000 2009",
-            "favourites_count": 32500,
-            "utc_offset": null,
-            "time_zone": null,
-            "geo_enabled": false,
-            "verified": false,
-            "statuses_count": 25089,
-            "lang": "fr",
-            "contributors_enabled": false,
-            "is_translator": false,
-            "is_translation_enabled": false,
-            "profile_background_color": "642D8B",
-            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
-            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
-            "profile_background_tile": true,
-            "profile_image_url": "http://pbs.twimg.com/profile_images/731050591372357632/E_IiyLhf_normal.jpg",
-            "profile_image_url_https": "https://pbs.twimg.com/profile_images/731050591372357632/E_IiyLhf_normal.jpg",
-            "profile_banner_url": "https://pbs.twimg.com/profile_banners/80122680/1399820284",
-            "profile_link_color": "FF0000",
-            "profile_sidebar_border_color": "65B0DA",
-            "profile_sidebar_fill_color": "7AC3EE",
-            "profile_text_color": "3D1957",
-            "profile_use_background_image": true,
-            "has_extended_profile": false,
-            "default_profile": false,
-            "default_profile_image": false,
-            "following": false,
-            "follow_request_sent": false,
-            "notifications": false,
-            "translator_type": "none"
-          },
-          "geo": null,
-          "coordinates": null,
-          "place": null,
-          "contributors": null,
-          "is_quote_status": false,
-          "retweet_count": 16,
-          "favorite_count": 28,
-          "favorited": false,
-          "retweeted": false,
-          "lang": "fr"
-        },
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "fr"
-      },
-      {
-        "created_at": "Wed Nov 14 02:40:42 +0000 2018",
-        "id": 1062535765475934208,
-        "id_str": "1062535765475934208",
-        "text": "@KershBranz @realDonaldTrump @marinelepen please, this soy boy is worse than Canada's .. get you an Alpha like \nmarine le pen",
-        "truncated": false,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "KershBranz",
-              "name": "Kersh Branz",
-              "id": 940362902,
-              "id_str": "940362902",
-              "indices": [
-                0,
-                11
-              ]
-            },
-            {
-              "screen_name": "realDonaldTrump",
-              "name": "Donald J. Trump",
-              "id": 25073877,
-              "id_str": "25073877",
-              "indices": [
-                12,
-                28
-              ]
-            },
-            {
-              "screen_name": "marinelepen",
-              "name": "Marine Le Pen",
-              "id": 80378916,
-              "id_str": "80378916",
-              "indices": [
-                29,
-                41
-              ]
-            }
-          ],
-          "urls": []
-        },
-        "metadata": {
-          "iso_language_code": "en",
-          "result_type": "recent"
-        },
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "in_reply_to_status_id": 1062535394665918465,
-        "in_reply_to_status_id_str": "1062535394665918465",
-        "in_reply_to_user_id": 1038654541913354247,
-        "in_reply_to_user_id_str": "1038654541913354247",
-        "in_reply_to_screen_name": "TonyxPalma",
-        "user": {
-          "id": 1038654541913354247,
-          "id_str": "1038654541913354247",
-          "name": "Anthony DePalma",
-          "screen_name": "TonyxPalma",
-          "location": "Philadelphia, PA",
-          "description": "WWG1WGA DEPLORABLE  I'm here for our president and Qanon",
-          "url": null,
-          "entities": {
-            "description": {
-              "urls": []
-            }
-          },
-          "protected": false,
-          "followers_count": 58,
-          "friends_count": 114,
-          "listed_count": 0,
-          "created_at": "Sun Sep 09 05:05:14 +0000 2018",
-          "favourites_count": 390,
-          "utc_offset": null,
-          "time_zone": null,
-          "geo_enabled": false,
-          "verified": false,
-          "statuses_count": 269,
-          "lang": "en",
-          "contributors_enabled": false,
-          "is_translator": false,
-          "is_translation_enabled": false,
-          "profile_background_color": "000000",
-          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-          "profile_background_tile": false,
-          "profile_image_url": "http://pbs.twimg.com/profile_images/1038654850744049668/yTff9La__normal.jpg",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038654850744049668/yTff9La__normal.jpg",
-          "profile_link_color": "FAB81E",
-          "profile_sidebar_border_color": "000000",
-          "profile_sidebar_fill_color": "000000",
-          "profile_text_color": "000000",
-          "profile_use_background_image": false,
-          "has_extended_profile": false,
-          "default_profile": false,
-          "default_profile_image": false,
-          "following": false,
-          "follow_request_sent": false,
-          "notifications": false,
-          "translator_type": "none"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-      },
-      {
-        "created_at": "Wed Nov 14 02:23:10 +0000 2018",
-        "id": 1062531353361694720,
-        "id_str": "1062531353361694720",
-        "text": "@realDonaldTrump Jeanne... AU SECOUR @jeanmarielepenF @marinelepen",
-        "truncated": false,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "realDonaldTrump",
-              "name": "Donald J. Trump",
-              "id": 25073877,
-              "id_str": "25073877",
-              "indices": [
-                0,
-                16
-              ]
-            },
-            {
-              "screen_name": "jeanmarielepenF",
-              "name": "Jean-Marie Le Pen",
-              "id": 3391715493,
-              "id_str": "3391715493",
-              "indices": [
-                37,
-                53
-              ]
-            },
-            {
-              "screen_name": "marinelepen",
-              "name": "Marine Le Pen",
-              "id": 80378916,
-              "id_str": "80378916",
-              "indices": [
-                54,
-                66
-              ]
-            }
-          ],
-          "urls": []
-        },
-        "metadata": {
-          "iso_language_code": "fr",
-          "result_type": "recent"
-        },
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "in_reply_to_status_id": 1062333882610171907,
-        "in_reply_to_status_id_str": "1062333882610171907",
-        "in_reply_to_user_id": 25073877,
-        "in_reply_to_user_id_str": "25073877",
-        "in_reply_to_screen_name": "realDonaldTrump",
-        "user": {
-          "id": 871409399994216448,
-          "id_str": "871409399994216448",
-          "name": "\ud83c\uddf8\ud83c\uddfd Daronne Lore \ud83c\uddf8\ud83c\uddfd",
-          "screen_name": "DaronneLore",
-          "location": "Saint-Martin",
-          "description": "DaronneLore | Awp Is My Only One Wife | YouTuber Influe... Nan j\u2019deconne",
-          "url": "https://t.co/VVmDSC4kHZ",
-          "entities": {
-            "url": {
-              "urls": [
-                {
-                  "url": "https://t.co/VVmDSC4kHZ",
-                  "expanded_url": "https://youtube.com/c/DaronneLore",
-                  "display_url": "youtube.com/c/DaronneLore",
-                  "indices": [
-                    0,
-                    23
-                  ]
-                }
-              ]
-            },
-            "description": {
-              "urls": []
-            }
-          },
-          "protected": false,
-          "followers_count": 26,
-          "friends_count": 36,
-          "listed_count": 0,
-          "created_at": "Sun Jun 04 16:52:45 +0000 2017",
-          "favourites_count": 15,
-          "utc_offset": null,
-          "time_zone": null,
-          "geo_enabled": true,
-          "verified": false,
-          "statuses_count": 490,
-          "lang": "fr",
-          "contributors_enabled": false,
-          "is_translator": false,
-          "is_translation_enabled": false,
-          "profile_background_color": "000000",
-          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-          "profile_background_tile": false,
-          "profile_image_url": "http://pbs.twimg.com/profile_images/1057353218546696199/u5knarmK_normal.jpg",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057353218546696199/u5knarmK_normal.jpg",
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/871409399994216448/1541219475",
-          "profile_link_color": "E81C4F",
-          "profile_sidebar_border_color": "000000",
-          "profile_sidebar_fill_color": "000000",
-          "profile_text_color": "000000",
-          "profile_use_background_image": false,
-          "has_extended_profile": false,
-          "default_profile": false,
-          "default_profile_image": false,
-          "following": false,
-          "follow_request_sent": false,
-          "notifications": false,
-          "translator_type": "none"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": {
-          "id": "ef292c6bcce65340",
-          "url": "https://api.twitter.com/1.1/geo/id/ef292c6bcce65340.json",
-          "place_type": "country",
-          "name": "Saint Martin",
-          "full_name": "Saint Martin",
-          "country_code": "MF",
-          "country": "Saint Martin",
-          "contained_within": [],
-          "bounding_box": {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  -63.1533148,
-                  18.0298989
-                ],
-                [
-                  -62.9705126,
-                  18.0298989
-                ],
-                [
-                  -62.9705126,
-                  18.1251962
-                ],
-                [
-                  -63.1533148,
-                  18.1251962
-                ]
-              ]
-            ]
-          },
-          "attributes": {}
-        },
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "fr"
-      },
-      {
-        "created_at": "Tue Nov 13 23:49:22 +0000 2018",
-        "id": 1062492648274059264,
-        "id_str": "1062492648274059264",
-        "text": "@realDonaldTrump Doing the dirty work of @marinelepen ?",
-        "truncated": false,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "realDonaldTrump",
-              "name": "Donald J. Trump",
-              "id": 25073877,
-              "id_str": "25073877",
-              "indices": [
-                0,
-                16
-              ]
-            },
-            {
-              "screen_name": "marinelepen",
-              "name": "Marine Le Pen",
-              "id": 80378916,
-              "id_str": "80378916",
-              "indices": [
-                41,
-                53
-              ]
-            }
-          ],
-          "urls": []
-        },
-        "metadata": {
-          "iso_language_code": "en",
-          "result_type": "recent"
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": 1062333882610171907,
-        "in_reply_to_status_id_str": "1062333882610171907",
-        "in_reply_to_user_id": 25073877,
-        "in_reply_to_user_id_str": "25073877",
-        "in_reply_to_screen_name": "realDonaldTrump",
-        "user": {
-          "id": 3543456318,
-          "id_str": "3543456318",
-          "name": "JorgeCastillo2491",
-          "screen_name": "JCastillo2491",
-          "location": "San Luis Potos\u00ed, M\u00e9xico",
-          "description": "Mexicano , geman\u00f3filo, abr\u00ed cuenta en twitter para publicar cosas que no pod\u00eda en facebook ahora me dedico a adular a los actores de doblaje",
-          "url": null,
-          "entities": {
-            "description": {
-              "urls": []
-            }
-          },
-          "protected": false,
-          "followers_count": 492,
-          "friends_count": 1958,
-          "listed_count": 2,
-          "created_at": "Sun Sep 13 00:35:59 +0000 2015",
-          "favourites_count": 72839,
-          "utc_offset": null,
-          "time_zone": null,
-          "geo_enabled": false,
-          "verified": false,
-          "statuses_count": 2441,
-          "lang": "es",
-          "contributors_enabled": false,
-          "is_translator": false,
-          "is_translation_enabled": false,
-          "profile_background_color": "000000",
-          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-          "profile_background_tile": false,
-          "profile_image_url": "http://pbs.twimg.com/profile_images/1058223293667278849/tK1rVN1i_normal.jpg",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058223293667278849/tK1rVN1i_normal.jpg",
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3543456318/1469398544",
-          "profile_link_color": "FF691F",
-          "profile_sidebar_border_color": "000000",
-          "profile_sidebar_fill_color": "000000",
-          "profile_text_color": "000000",
-          "profile_use_background_image": false,
-          "has_extended_profile": true,
-          "default_profile": false,
-          "default_profile_image": false,
-          "following": false,
-          "follow_request_sent": false,
-          "notifications": false,
-          "translator_type": "none"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-      },
-      {
-        "created_at": "Tue Nov 13 21:50:16 +0000 2018",
-        "id": 1062462678667550720,
-        "id_str": "1062462678667550720",
-        "text": "@2xlegalaliens @realDonaldTrump @marinelepen Far right = simplistic response to complicated problems.\nWhen citizens\u2026 https://t.co/OUucE7007u",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "2xlegalaliens",
-              "name": "Paul & Dan",
-              "id": 812387737689063424,
-              "id_str": "812387737689063424",
-              "indices": [
-                0,
-                14
-              ]
-            },
-            {
-              "screen_name": "realDonaldTrump",
-              "name": "Donald J. Trump",
-              "id": 25073877,
-              "id_str": "25073877",
-              "indices": [
-                15,
-                31
-              ]
-            },
-            {
-              "screen_name": "marinelepen",
-              "name": "Marine Le Pen",
-              "id": 80378916,
-              "id_str": "80378916",
-              "indices": [
-                32,
-                44
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/OUucE7007u",
-              "expanded_url": "https://twitter.com/i/web/status/1062462678667550720",
-              "display_url": "twitter.com/i/web/status/1\u2026",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "metadata": {
-          "iso_language_code": "en",
-          "result_type": "recent"
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": 1062439894608420864,
-        "in_reply_to_status_id_str": "1062439894608420864",
-        "in_reply_to_user_id": 812387737689063424,
-        "in_reply_to_user_id_str": "812387737689063424",
-        "in_reply_to_screen_name": "2xlegalaliens",
-        "user": {
-          "id": 23190411,
-          "id_str": "23190411",
-          "name": "Ronald Grump",
-          "screen_name": "pazcal1973",
-          "location": "France",
-          "description": "I'm a very Stable Genius - Donald J. Trump",
-          "url": null,
-          "entities": {
-            "description": {
-              "urls": []
-            }
-          },
-          "protected": false,
-          "followers_count": 199,
-          "friends_count": 540,
-          "listed_count": 3,
-          "created_at": "Sat Mar 07 13:05:44 +0000 2009",
-          "favourites_count": 11460,
-          "utc_offset": null,
-          "time_zone": null,
-          "geo_enabled": false,
-          "verified": false,
-          "statuses_count": 10004,
-          "lang": "fr",
-          "contributors_enabled": false,
-          "is_translator": false,
-          "is_translation_enabled": false,
-          "profile_background_color": "C0DEED",
-          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-          "profile_background_tile": false,
-          "profile_image_url": "http://pbs.twimg.com/profile_images/785447801815699456/NoYZ0hXW_normal.jpg",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/785447801815699456/NoYZ0hXW_normal.jpg",
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/23190411/1533032626",
-          "profile_link_color": "1DA1F2",
-          "profile_sidebar_border_color": "C0DEED",
-          "profile_sidebar_fill_color": "DDEEF6",
-          "profile_text_color": "333333",
-          "profile_use_background_image": true,
-          "has_extended_profile": false,
-          "default_profile": true,
-          "default_profile_image": false,
-          "following": false,
-          "follow_request_sent": false,
-          "notifications": false,
-          "translator_type": "none"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 1,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-      },
-      {
-        "created_at": "Tue Nov 13 20:19:44 +0000 2018",
-        "id": 1062439894608420864,
-        "id_str": "1062439894608420864",
-        "text": "@pazcal1973 @realDonaldTrump @marinelepen Like it or not, Europe is turning to the right, the far right in some cou\u2026 https://t.co/jzhfNOb9iW",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "pazcal1973",
-              "name": "Ronald Grump",
-              "id": 23190411,
-              "id_str": "23190411",
-              "indices": [
-                0,
-                11
-              ]
-            },
-            {
-              "screen_name": "realDonaldTrump",
-              "name": "Donald J. Trump",
-              "id": 25073877,
-              "id_str": "25073877",
-              "indices": [
-                12,
-                28
-              ]
-            },
-            {
-              "screen_name": "marinelepen",
-              "name": "Marine Le Pen",
-              "id": 80378916,
-              "id_str": "80378916",
-              "indices": [
-                29,
-                41
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/jzhfNOb9iW",
-              "expanded_url": "https://twitter.com/i/web/status/1062439894608420864",
-              "display_url": "twitter.com/i/web/status/1\u2026",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "metadata": {
-          "iso_language_code": "en",
-          "result_type": "recent"
-        },
-        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-        "in_reply_to_status_id": 1062439225273016320,
-        "in_reply_to_status_id_str": "1062439225273016320",
-        "in_reply_to_user_id": 23190411,
-        "in_reply_to_user_id_str": "23190411",
-        "in_reply_to_screen_name": "pazcal1973",
-        "user": {
-          "id": 812387737689063424,
-          "id_str": "812387737689063424",
-          "name": "Paul & Dan",
-          "screen_name": "2xlegalaliens",
-          "location": "Tuckahoe, NY",
-          "description": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7\ud83c\uddf3\ud83c\uddf4\ud83c\udff3\ufe0f\u200d\ud83c\udf08 2 boys based in NY, #newright support #potus, gamers, sports,MA, love guns & outdoors, RC, & take no prisoners but we\u2019re cool dudes \ud83d\udc4d",
-          "url": null,
-          "entities": {
-            "description": {
-              "urls": []
-            }
-          },
-          "protected": false,
-          "followers_count": 373,
-          "friends_count": 87,
-          "listed_count": 6,
-          "created_at": "Fri Dec 23 20:01:44 +0000 2016",
-          "favourites_count": 18667,
-          "utc_offset": null,
-          "time_zone": null,
-          "geo_enabled": false,
-          "verified": false,
-          "statuses_count": 18294,
-          "lang": "en",
-          "contributors_enabled": false,
-          "is_translator": false,
-          "is_translation_enabled": false,
-          "profile_background_color": "F5F8FA",
-          "profile_background_image_url": null,
-          "profile_background_image_url_https": null,
-          "profile_background_tile": false,
-          "profile_image_url": "http://pbs.twimg.com/profile_images/991668691434602496/vAUAlyOV_normal.jpg",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/991668691434602496/vAUAlyOV_normal.jpg",
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/812387737689063424/1537224283",
-          "profile_link_color": "1DA1F2",
-          "profile_sidebar_border_color": "C0DEED",
-          "profile_sidebar_fill_color": "DDEEF6",
-          "profile_text_color": "333333",
-          "profile_use_background_image": true,
-          "has_extended_profile": false,
-          "default_profile": true,
-          "default_profile_image": false,
-          "following": false,
-          "follow_request_sent": false,
-          "notifications": false,
-          "translator_type": "none"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
-      },
-      {
-        "created_at": "Tue Nov 13 20:17:05 +0000 2018",
-        "id": 1062439225273016320,
-        "id_str": "1062439225273016320",
-        "text": "@2xlegalaliens @realDonaldTrump @marinelepen Keep on dreaming dude...\nLet's talk about that in 3.5 years.",
-        "truncated": false,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "2xlegalaliens",
-              "name": "Paul & Dan",
-              "id": 812387737689063424,
-              "id_str": "812387737689063424",
-              "indices": [
-                0,
-                14
-              ]
-            },
-            {
-              "screen_name": "realDonaldTrump",
-              "name": "Donald J. Trump",
-              "id": 25073877,
-              "id_str": "25073877",
-              "indices": [
-                15,
-                31
-              ]
-            },
-            {
-              "screen_name": "marinelepen",
-              "name": "Marine Le Pen",
-              "id": 80378916,
-              "id_str": "80378916",
-              "indices": [
-                32,
-                44
-              ]
-            }
-          ],
-          "urls": []
-        },
-        "metadata": {
-          "iso_language_code": "en",
-          "result_type": "recent"
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": 1062424814529511424,
-        "in_reply_to_status_id_str": "1062424814529511424",
-        "in_reply_to_user_id": 812387737689063424,
-        "in_reply_to_user_id_str": "812387737689063424",
-        "in_reply_to_screen_name": "2xlegalaliens",
-        "user": {
-          "id": 23190411,
-          "id_str": "23190411",
-          "name": "Ronald Grump",
-          "screen_name": "pazcal1973",
-          "location": "France",
-          "description": "I'm a very Stable Genius - Donald J. Trump",
-          "url": null,
-          "entities": {
-            "description": {
-              "urls": []
-            }
-          },
-          "protected": false,
-          "followers_count": 199,
-          "friends_count": 540,
-          "listed_count": 3,
-          "created_at": "Sat Mar 07 13:05:44 +0000 2009",
-          "favourites_count": 11460,
-          "utc_offset": null,
-          "time_zone": null,
-          "geo_enabled": false,
-          "verified": false,
-          "statuses_count": 10004,
-          "lang": "fr",
-          "contributors_enabled": false,
-          "is_translator": false,
-          "is_translation_enabled": false,
-          "profile_background_color": "C0DEED",
-          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-          "profile_background_tile": false,
-          "profile_image_url": "http://pbs.twimg.com/profile_images/785447801815699456/NoYZ0hXW_normal.jpg",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/785447801815699456/NoYZ0hXW_normal.jpg",
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/23190411/1533032626",
-          "profile_link_color": "1DA1F2",
-          "profile_sidebar_border_color": "C0DEED",
-          "profile_sidebar_fill_color": "DDEEF6",
-          "profile_text_color": "333333",
-          "profile_use_background_image": true,
-          "has_extended_profile": false,
-          "default_profile": true,
-          "default_profile_image": false,
-          "following": false,
-          "follow_request_sent": false,
-          "notifications": false,
-          "translator_type": "none"
-        },
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "en"
       }
   ]
 }

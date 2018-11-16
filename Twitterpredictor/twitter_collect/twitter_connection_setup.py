@@ -7,11 +7,12 @@ from twitter_collect.twitterconnect import twitter_setup
 def collect():
     #renvoi 100 tweet avec @EmmanuelMacron
     connexion = twitter_setup()
-    tweets = connexion.search("@EmmanuelMacron",language="french",rpp=100)
+    tweets = connexion.search("@marinelepen OR @EmmanuelMacron",language="french",rpp=100)
     for tweet in tweets:
         #status=tweet[0]
         #print ("Tweet text:", status.text)
         print(tweet)
+
 
 
 
