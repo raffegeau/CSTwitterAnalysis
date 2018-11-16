@@ -33,3 +33,13 @@ def lenmax(data):
     print("The longest tweet is: \n{}".format(data['tweet_textual_content'][len]))
     print("Number of retweets: {}".format(likes))
     print("{} characters.\n".format(data['len'][rt]))
+
+tfav = pd.Series(data=data['Likes'].values, index=data['Date'])
+tret = pd.Series(data=data['RTs'].values, index=data['Date'])
+
+
+tfav.plot(figsize=(16,4), label="Likes", legend=True)
+tret.plot(figsize=(16,4), label="Retweets", legend=True)
+
+plt.show()
+
