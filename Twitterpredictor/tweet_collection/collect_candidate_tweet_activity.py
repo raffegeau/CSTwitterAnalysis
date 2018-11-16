@@ -36,7 +36,7 @@ def get_tweets_from_candidates_search_queries(queries,twitter_api):
     except RateLimitError:
         print ("le débit maximal de twitter est atteint, veillez réessayer plus tard")
 
-def get_replies_to_candidate(num_candidate):
+#def get_replies_to_candidate(num_candidate): n'a pas trouvé comment faire...
 
 
 

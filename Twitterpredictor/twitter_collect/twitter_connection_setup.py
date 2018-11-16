@@ -9,7 +9,10 @@ def collect():
     connexion = twitter_setup()
     tweets = connexion.search("@EmmanuelMacron",language="french",rpp=100)
     for tweet in tweets:
-        print(tweet.text)
+        #status=tweet[0]
+        #print ("Tweet text:", status.text)
+        print(tweet)
+
 
 
 
