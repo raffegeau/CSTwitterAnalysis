@@ -4,7 +4,7 @@ import pandas as pd
 
 #data=tw.create_data()
 
-def afficher_RT_Likes():
+def afficher_RT_Likes(data):
     tfav = pd.Series(data=data["retweet_count"].values, index=data['created_at'])
     tret = pd.Series(data=data["favorite_count"].values, index=data['created_at'])
 
@@ -16,3 +16,14 @@ def afficher_RT_Likes():
 
 
 #afficher_like_par_candidat
+
+def afficher_like_candidat(liste_candidat,data):
+    for candidat in liste_candidat:
+        data.add(data[candidat],axis="rows")
+        for
+
+
+
+
+
+
