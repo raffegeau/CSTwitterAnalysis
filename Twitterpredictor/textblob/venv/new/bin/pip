@@ -1,4 +1,4 @@
-#!/Users/louisemaarek/Documents/CSTwitterAnalysis/Twitterpredictor/Loulou/venv/new/bin/python
+#!/Users/louisemaarek/Documents/CSTwitterAnalysis/Twitterpredictor/textblob/venv/new/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==10.0.1','console_scripts','pip'
 __requires__ = 'pip==10.0.1'
 import re
